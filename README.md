@@ -1,48 +1,17 @@
 # Python_Challenges
 Compilation of the answers that I made for the challenges that offer FreeCodeCamp
 
-### boilerPlate.py
+## boilerPlate.py
 Calculate the area of a given square or rectangle, also it will print the image of it.
 
-```sh
-set_width(self, width):
-```
-Re-set width
+## budget.py
+Create an e-wallet where you can transfer for one to an other
 
-```sh
-set_heigth(self, heigth):
-```
-Re-set heigth
+## calculadora.py
+Do add and subtract operations and it will return it in a pretty way
 
-```sh
-get_area(self):
-```
-Calculate area
+## probabilityCalc.py
+Create a tombola where it will calculate each probability of choosing each element
 
-```sh
-get_perimetro(self):
-```
-Calculate perimeter
-
-```sh
-get_diagonal(self):
-```
-Calculate diagonal
-
-```sh
-get_picture(self): 
-```
-Print picture
-
-```sh
-get_amount_inside(self, width2, heigth2):
-```
-Calculate how many times it fits inside 
-
-### budget.py
-
-### calculadora.py
-
-### probabilityCalc.py
-
-### timeCalculator.py
+## timeCalculator.py
+Calculate the time remaining of a given event 
